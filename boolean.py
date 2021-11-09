@@ -1,0 +1,14 @@
+a=True
+b=True
+print(True&True)
+print(True&False)
+print(True|True)
+print(True|False)
+print(True^True)
+print(True^False)
+print(~True)
+print(~False)
+print(True<<True)
+print(True<<False)
+print(True>>True)
+print(True>>False)
